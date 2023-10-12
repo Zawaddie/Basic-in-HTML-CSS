@@ -1,0 +1,30 @@
+.fruits{
+    border: 2px solid aquamarine;
+    background-color: chocolate;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+    color: beige;
+}
+.cars{
+    border: black solid 2px;
+    background-color: cadetblue;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+    color: beige;
+}
+.comp{
+    border: 2px solid aquamarine;
+    background-color: chocolate;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+    color: pink;
+}
+.lapt{
+    border: 2px solid black;
+}
+.dst{
+    border: 2px dotted blue;
+}
